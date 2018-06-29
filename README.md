@@ -1,2 +1,2 @@
 # ConnectFour
-Agent trained by deep learning to play 'Connect Four'
+Deep Q Learning
